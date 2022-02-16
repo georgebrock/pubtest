@@ -1,0 +1,4 @@
+# This is a CODEOWNERS file that contains deliberate mistakes
+
+*.rb !!!!WHUT?!
+*.py @definitelynotarealuser
